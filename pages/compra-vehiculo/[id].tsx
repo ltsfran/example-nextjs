@@ -1,5 +1,5 @@
 const CompraVehiculoTest: React.FC = () => {
-  return <div>Hola mundo</div>;
+  return <div>Hola mundo test</div>;
 };
 
 export const getStaticPaths = async (): Promise<any> => {
