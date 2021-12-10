@@ -28,6 +28,7 @@
   },
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export -o dist"
+    "build": "next build && next export -o dist",
+    "start": "next build && next start"
   }
 }
